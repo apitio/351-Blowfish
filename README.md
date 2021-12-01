@@ -23,6 +23,8 @@ Run the following command to start the flask application:
 
 > python app.py
 
+Visit http://127.0.0.1:5000/ on your browser and enter plaintext and key
+
 Check the root directory for the following two files to see the encrypted and decrypted files:
 
 > less encrypted.dat
